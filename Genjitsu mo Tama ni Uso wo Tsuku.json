@@ -11,10 +11,23 @@
       "last_updated": "1759506182",
       "groups": {
         "": [
-          "https://raw.githubusercontent.com/username/judul-manga-images/main/228/01.jpg",
-          "https://raw.githubusercontent.com/username/judul-manga-images/main/228/02.jpg",
-          "https://raw.githubusercontent.com/username/judul-manga-images/main/228/03.jpg",
-          "https://raw.githubusercontent.com/username/judul-manga-images/main/228/04.jpg"
+          "https://raw.githubusercontent.com/nurananto/HangingOutwithaGamerGirl/main/228/01.jpg",
+          "https://raw.githubusercontent.com/nurananto/HangingOutwithaGamerGirl/main/228/02.jpg",
+          "https://raw.githubusercontent.com/nurananto/HangingOutwithaGamerGirl/main/228/03.jpg",
+          "https://raw.githubusercontent.com/nurananto/HangingOutwithaGamerGirl/main/228/04.jpg"
+        ]
+      }
+    },
+    "229": {
+      "title": "229",
+      "volume": "",
+      "last_updated": "1759506548",
+      "groups": {
+        "": [
+          "https://raw.githubusercontent.com/nurananto/HangingOutwithaGamerGirl/main/229/01.jpg",
+          "https://raw.githubusercontent.com/nurananto/HangingOutwithaGamerGirl/main/229/02.jpg",
+          "https://raw.githubusercontent.com/nurananto/HangingOutwithaGamerGirl/main/229/03.jpg",
+          "https://raw.githubusercontent.com/nurananto/HangingOutwithaGamerGirl/main/229/04.jpg"
         ]
       }
     }
