@@ -4,5 +4,14 @@
   "artist": "Kennoji",
   "author": "Yuuma Yun",
   "cover": "https://mangadex.org/covers/a605a5d0-21a6-481f-a055-74735ea4f2c2/eaecd9b5-0510-46aa-b65c-a09611fa912b.jpg",
-  "chapters": {}
+  "chapters": {
+    "1": {
+      "title": "1. Rute Tomosada Akira",
+      "volume": "1",
+      "last_updated": "1759455202",
+      "groups": {
+        "": "/proxy/api/imgur/chapter/Kg2ulA6"
+      }
+    }
+  }
 }
