@@ -4,5 +4,86 @@
   "artist": "Mito",
   "author": "Yasuzumi Kei",
   "cover": "https://mangadex.org/covers/e6d70578-d6b2-4c60-a2f4-7ab16e515480/4cf5a0cc-9123-43bd-bf54-c5f8c0aa9e16.jpg",
-  "chapters": {}
+  "chapters": {
+    "1": {
+      "title": "1",
+      "volume": "",
+      "last_updated": "1760122582",
+      "groups": {
+        "": [
+          ""
+        ]
+      }
+    },
+    "2": {
+      "title": "2",
+      "volume": "",
+      "last_updated": "1760122585",
+      "groups": {
+        "": [
+          ""
+        ]
+      }
+    },
+    "3": {
+      "title": "3",
+      "volume": "",
+      "last_updated": "1760122587",
+      "groups": {
+        "": [
+          ""
+        ]
+      }
+    },
+    "4": {
+      "title": "4",
+      "volume": "",
+      "last_updated": "1760122590",
+      "groups": {
+        "": [
+          ""
+        ]
+      }
+    },
+    "5": {
+      "title": "5",
+      "volume": "",
+      "last_updated": "1760122592",
+      "groups": {
+        "": [
+          ""
+        ]
+      }
+    },
+    "6": {
+      "title": "6",
+      "volume": "",
+      "last_updated": "1760122595",
+      "groups": {
+        "": [
+          ""
+        ]
+      }
+    },
+    "7": {
+      "title": "7",
+      "volume": "",
+      "last_updated": "1760122597",
+      "groups": {
+        "": [
+          ""
+        ]
+      }
+    },
+    "8": {
+      "title": "8",
+      "volume": "",
+      "last_updated": "1760122599",
+      "groups": {
+        "": [
+          ""
+        ]
+      }
+    }
+  }
 }
